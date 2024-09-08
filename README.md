@@ -1,4 +1,4 @@
-**This is a simple investment calcualtor. Used to project earnings over time.**
+**This is a simple investment calcualtor with UI. Used to project earnings over time.**
 
 
 Example of input
